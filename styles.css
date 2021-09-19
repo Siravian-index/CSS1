@@ -1,0 +1,43 @@
+.body {
+  font-size: 1.3rem;
+  font-family: monospace;
+}
+.title {
+  text-align: center;
+}
+
+.label {
+  display: block;
+}
+
+input, select, textarea {
+  font-size: 100%;
+  width: 100%;
+}
+input {
+  height: 3rem;
+}
+
+.container {
+  width: 40%;
+  margin: 1.2rem auto;
+}
+
+.logo {
+  width: 10%;
+  display: block;
+  margin: auto;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  padding: 1.2rem 2rem;
+  display: block;
+  margin: 1rem auto;
+  font-size: 1.2rem;
+}
+
+.button:hover {
+  background-color: rgb(44, 43, 43);
+}
